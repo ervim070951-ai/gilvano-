@@ -1,9 +1,13 @@
 #title{
     color:red;
     font-size: 55px;}
+     
+
 #paragraph {
     color:blue;
-    font-size: 20px;
+    font-size: 10px;
+    margin-left: auto;
+    margin-right: auto;
     font-weight: bold;
 }
 
@@ -15,18 +19,23 @@
     background-color:chocolate;
     cursor: grabbing
 }
-.vo {}
+.vo {
+    background-color: rgb(201, 181, 181);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
 .pai {
 
-    width: 50vw
+    width: 50vw;
     height: 50vh;
     background: #0000ff;
-    color; #FFFFFF ;
-    fonte-size: 32px
+    color: #FFFFFF;
+    font-size: 32px;
 }
 .filho {
     background: #f00;
     width: 50%;
     height: 50%;
-    color; #FFFFFF ;
+    color: #FFFFFF;
 }
